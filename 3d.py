@@ -13,6 +13,6 @@ x = z * np.sin(25 * z)
 y = z * np.cos(25 * z)
  
 # plotting
-ax.plot3D(x, y, z, 'green')
+ax.plot3D(x, y, z, 'orange')
 ax.set_title('3D line plot geeks for geeks')
 plt.show()
